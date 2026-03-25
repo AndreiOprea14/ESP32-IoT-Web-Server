@@ -31,4 +31,4 @@ If Wi-Fi goes down (or isn't configured yet), the ESP32 listens via Bluetooth (`
 * `GET_DETAILS <id>`
 
 
-This project was a great dive into how IoT devices manage remote configuration and handle data formatting for client applications.*
+This project was a great dive into how IoT devices manage remote configuration and handle data formatting for client applications.
